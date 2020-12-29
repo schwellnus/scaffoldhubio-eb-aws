@@ -19,7 +19,7 @@ Read that first and make sure you understand what's happening (and have prereque
 
 3. Create an environment running _your_ with the eb create command.
 ```sh
-~/your-application/backend$ eb create _your-application-environment_
+~/your-application/backend$ eb create your-application-environment
 ```
 
 This should already let your app run.  It's not configured, as you hopefully did not push your .env file.
